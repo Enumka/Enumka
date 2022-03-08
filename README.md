@@ -1,6 +1,6 @@
 # Зравствуйте! <img srs="https://i.gifer.com/1UEW.gif" width="25px" />
 
-### Меня зовут Никита и я JS Developer.
+### Меня зовут Никита, и я JS Developer.
 
 **Мой технологический стэк:**
 * HTML/CSS
@@ -11,6 +11,6 @@
 * React & Redux
 
 **Cвязаться со мной:**
-* [Телеграм](https://t.me/Enumka)
+* [Телеграм @Enumka](https://t.me/Enumka)
 * Почта devenumka@gmail.com
 * Телефон +79190858502
