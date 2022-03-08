@@ -1,4 +1,4 @@
-# Зравствуйте! <img src="https://i.gifer.com/1UEW.gif" width="25px" />
+# Зравствуйте! <img src="https://c.tenor.com/FvJr-o-mRgEAAAAC/hello-wave.gif" width="25px" />
 
 ### Меня зовут Никита, и я JS Developer.
 
