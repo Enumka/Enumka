@@ -1,4 +1,4 @@
-# Зравствуйте! <img srs="https://i.gifer.com/1UEW.gif" width="25px">
+# Зравствуйте! <img srs="https://i.gifer.com/1UEW.gif" width="25px" />
 
 ### Меня зовут Никита и я JS Developer.
 
